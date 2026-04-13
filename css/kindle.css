@@ -70,12 +70,13 @@ html.night {
 
 #lastUpdate {
     position: relative;
-    top: 24%;
+    top: 18%;
     left: 0%;
-    font-size: 25rem;
+    font-size: 38rem;
     font-weight: bolder;
     text-align: center;
     font-family: electronicFont;
+    line-height: 1.0;
 }
 
 #description {
@@ -103,8 +104,8 @@ html.night {
 .forecast {
     position: relative;
     left: 0;
-    top: 17%;
-    height: 32rem;
+    top: 18%;
+    height: 28rem;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
 }
@@ -140,7 +141,7 @@ html.night {
 
 #sun {
     position: absolute;
-    bottom: -0.5rem;
+    bottom: 4.5rem;
     left: 3%;
     font-size: 5rem;
     font-weight:bolder;

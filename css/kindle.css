@@ -71,8 +71,8 @@ html.night {
 #lastUpdate {
     position: relative;
     top: 24%;
-    left: 2%;
-    font-size: 40rem;
+    left: 0%;
+    font-size: 25rem;
     font-weight: bolder;
     text-align: center;
     font-family: electronicFont;
@@ -163,7 +163,7 @@ html.night {
 
 .colTime {
     position: relative;
-    font-size: 10rem;
+    font-size: 7rem;
     left:3%;
     font-weight: bolder;
     text-align: center;
